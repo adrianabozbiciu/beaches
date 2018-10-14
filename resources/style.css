@@ -14,3 +14,9 @@ h2 {
 h3 {
   color: seagreen;
 }
+.BahiaBeach {
+  background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/bahia.jpeg");
+  background-size: cover;
+  width:auto;
+  height:auto;
+}
